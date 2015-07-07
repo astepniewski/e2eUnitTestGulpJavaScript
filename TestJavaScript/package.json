@@ -9,6 +9,10 @@
   },
   "devDependencies": {
     "gulp-casperjs": "0.0.5",
-    "gulp-filenames": "^1.3.0"
+    "gulp-filenames": "^1.3.0",
+	"gulp": "3.9.0",
+	"chai": "3.0.0",
+	"gulp-mocha": "2.1.2",
+	"gulp-util": "3.0.6"
   }
 }
