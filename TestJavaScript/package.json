@@ -1,0 +1,14 @@
+{
+  "name": "TestJavaScript",
+  "version": "0.0.0",
+  "description": "TestJavaScript",
+  "main": "server.js",
+  "author": {
+    "name": "a.stepniewski",
+    "email": ""
+  },
+  "devDependencies": {
+    "gulp-casperjs": "0.0.5",
+    "gulp-filenames": "^1.3.0"
+  }
+}
